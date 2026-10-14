@@ -3,7 +3,7 @@
 #### MERN Stack Developer & Frontend Engineer
 
 # About Me:
-Currently: <br>🔭 Building full-stack apps with Next.js App Router + MongoDB <br>🏗️ 10+ projects shipped — from UI components to full-stack platforms <br>⚡ Obsessed with cinematic UI, clean architecture & performance <br>🎯 Goal: Land a role where craft, product thinking & code meet <br>📚 Enrolled in Programming Hero — Complete Web Dev Batch 14 just
+Currently: <br>🔭 Building full-stack apps with Next.js App Router + MongoDB <br>🏗️ 10+ projects shipped — from UI components to full-stack platforms <br>⚡ Obsessed with cinematic UI, clean architecture & performance <br>🎯 Goal: Land a role where craft, product thinking & code meet <br>📚 Enrolled in Programming Hero — Running Web Dev Batch 14 just
 
 
 ## 🌐 Socials:
