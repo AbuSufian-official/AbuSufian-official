@@ -16,7 +16,7 @@ Currently: <br>🔭 Building full-stack apps with Next.js App Router + MongoDB <
 ![](https://streak-stats.demolab.com/?user=AbuSufian-official&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbuSufian-official&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
