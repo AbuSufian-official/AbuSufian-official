@@ -1,5 +1,5 @@
 ![MERN Stack Developer & Frontend Engineer](https://github.com/AbuSufian-official/AbuSufian-official/blob/main/Abu%20Sufian%20Professional%20Developer%20Banner.png?raw=true)
-### Hi there 👋, Abu sufian
+### Abu sufian
 #### MERN Stack Developer & Frontend Engineer
 
 # About Me:
