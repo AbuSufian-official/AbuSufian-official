@@ -23,14 +23,10 @@
 <br />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Umaer+Islam;Full+Stack+Web+Developer;Creative+Designer;JavaScript+%26+TypeScript+Enthusiast;Designer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver"
-      alt="Typing animation"
-    />
+  
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=F7F6F6&center=true&vCenter=true&width=435&lines=ABU+SUFIAN;Full+Stack+Web+Developer+%26+Creative+Designer" alt="Typing SVG" />
   </a>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=F7F6F6&center=true&vCenter=true&width=435&lines=ABU+SUFIAN;Full+Stack+Web+Developer+%26+Creative+Designer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
