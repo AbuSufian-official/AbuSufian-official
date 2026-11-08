@@ -53,6 +53,8 @@ My background in design gives me a different perspective on development — I ca
 - <img src="https://api.iconify.design/mdi/web.svg?color=%236e7781&width=16" alt="" /> Open to collaboration, opportunities and interesting projects
 
 ---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abu.sufian.siam.600887) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abusufian001) 
 
 <!-- ============================== FOCUS ============================== -->
 
