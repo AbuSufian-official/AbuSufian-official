@@ -120,6 +120,14 @@ My background in design gives me a different perspective on development — I ca
 
 ---
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AbuSufian-official&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AbuSufian-official&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbuSufian-official&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
+
 <!-- ============================== FOOTER ============================== -->
 
 <h3 align="center"><img src="https://api.iconify.design/mdi/email-outline.svg?color=%236e7781&width=20" alt="" /> Let's build something together</h3>
