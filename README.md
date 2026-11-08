@@ -29,6 +29,8 @@
       alt="Typing animation"
     />
   </a>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=F7F6F6&center=true&vCenter=true&width=435&lines=ABU+SUFIAN;Full+Stack+Web+Developer+%26+Creative+Designer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
