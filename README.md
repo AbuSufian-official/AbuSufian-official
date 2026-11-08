@@ -96,37 +96,13 @@ My background in design gives me a different perspective on development — I ca
 
 <!-- ============================== GITHUB STATS ============================== -->
 
-## <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=%236e7781&width=20" alt="" /> GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.shion.dev/api?username=umaer-islam&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
-    alt="Umaer Islam's GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=umaer-islam&layout=compact&theme=dark&hide_border=true&border_radius=12&bg_color=0d1117"
-    alt="Umaer Islam's most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=umaer-islam&theme=dark&hide_border=true&border_radius=12&background=0D1117"
-    alt="Umaer Islam's GitHub streak"
-  />
-</p>
-
----
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AbuSufian-official&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AbuSufian-official&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbuSufian-official&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-
+---
 
 <!-- ============================== FOOTER ============================== -->
 
